@@ -3,6 +3,3 @@ function learnMore() {
 }
 
 
-<a href="tel:+919876543210">
-  <button>Call Now</button>
-</a>
