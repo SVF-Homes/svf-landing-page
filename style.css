@@ -37,7 +37,9 @@ body {
 .card strong {
   color: #111827;
 }
-
+.buttons a {
+  text-decoration: none;
+}
 .buttons {
   margin-top: 20px;
 }
